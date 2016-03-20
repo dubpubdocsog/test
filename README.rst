@@ -1,1 +1,1 @@
-sakuraido_ https://github.com/sakuraido/test.git_
+[sakuraido] (https://github.com/sakuraido)
