@@ -1,1 +1,1 @@
-[sakuraido] (https://github.com/sakuraido)
+[sakuraido](https://github.com/sakuraido)
