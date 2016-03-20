@@ -1,2 +1,1 @@
-[1]: http://somewebsite.org
-[link text itself]: http://www.somewebsite.com
+$link=http://www.a-big-long-big-big-long-hyperlink/more-long-stuff?id
