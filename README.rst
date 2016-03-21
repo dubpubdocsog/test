@@ -1,1 +1,5 @@
-$link=http://www.a-big-long-big-big-long-hyperlink/more-long-stuff?id
+[пример](http://example.com/ "Необязательная подсказка")
+[пример][id]:
+[id]: http://example.com/ "Необязательная подсказка"
+[Example][]
+[Example]: http://example.com/
