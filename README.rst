@@ -1,1 +1,1 @@
-.. _Python: http://www.python.org/
+`go to python <Python>`_
