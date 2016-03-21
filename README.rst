@@ -1,2 +1,1 @@
-**А этот текст будет полужирным.**
-[Ссылка!](http://test.com/)
+.. _Python: http://www.python.org/
